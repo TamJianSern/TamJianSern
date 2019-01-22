@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TamJianSern</string>
+    <string name="make_passport">Make Passport</string>
+    <string name="renew_passport">Renew Passport</string>
+    <string name="age_12"><![CDATA[Age <= 12]]></string>
+    <string name="below_12">Below 12</string>
+    <string name="more_than_12">More than 12</string>
+    <string name="above_65">Above 65</string>
+    <string name="age">Age</string>
+    <string name="status">Status</string>
+    <string name="haj_pilgrim">Haj Pilgrim</string>
+    <string name="student_below_21">Student below 21</string>
+    <string name="study_abroad">Study Abroad</string>
+    <string name="disabled">Disabled</string>
+    <string name="none">None</string>
+    <string name="price">Price</string>
+    <string name="_12_and_below">12 and below</string>
+    <string name="above_12">Above 12</string>
+</resources>
